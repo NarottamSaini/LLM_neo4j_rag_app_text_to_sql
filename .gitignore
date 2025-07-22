@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+chatbot_api/chatbot_api_venv
+hospital_neo4j_etl/*
+chroma_data
+chroma_data/chroma.sqlite3
+backup
+data/*
+
+# Virtual environments
+.venv
+venv
+env
+env1
+
+
+
